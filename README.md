@@ -9,5 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrommi)](https://github.com/mazrommi/github-readme-stats)
 
-📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazrommi&show_icons=true&theme=default)
