@@ -5,7 +5,7 @@
 💻 Languages & Tools: Python, PHP, JavaScript, MySQL, Laravel, Flask, Streamlit, Flutter  
 📚 Sharing knowledge through open source & educational content
 
-🔗 [LinkedIn](https://linkedin.com/in/rommi-kaestria-34ab5594) | 🌐 [Personal Website](https://rommikaestria.github.io/)
+🔗 [LinkedIn](https://www.linkedin.com/in/rommi-kaestria/) | 🌐 [Personal Website](https://rommikaestria.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrommi)](https://github.com/mazrommi/github-readme-stats)
 
