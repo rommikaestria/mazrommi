@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rommikaestria)](https://github.com/rommikaestria/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazrommi&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rommikaestria&show_icons=true&theme=default)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rommikaestria&color=green)
 
